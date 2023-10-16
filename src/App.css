@@ -1,0 +1,13 @@
+.card-body-stars {
+  list-style-type: none;
+}
+
+.card-body-stars li {
+  float: left;
+}
+
+.u-clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
